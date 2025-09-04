@@ -103,7 +103,7 @@ TelecomBillingSystem/
 ## ✅ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/telecom-billing-system.git
+   git clone https://github.com/the1syed/telecom-billing-system.git
    cd telecom-billing-system
    ```
 2. Configure **Oracle Database**:
