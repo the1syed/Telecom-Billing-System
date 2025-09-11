@@ -128,6 +128,7 @@ It supports operations such as:
 ```bash
 git clone https://github.com/the1syed/Telecom-Billing-System.git
 cd Telecom-Billing-System
+```
 
 2. **Database Setup
 - Create a database in Oracle/MySQL.
@@ -139,11 +140,12 @@ cd Telecom-Billing-System
 
 ```bash
 javac -d bin src/**/*.java
+```
 
 - Run the main class:
 ```bash
 java -cp bin Main
-
+```
 
 ## Usage
 
